@@ -7,9 +7,9 @@ Face Detect
 
 As a test I tried it on three heads of state, chosen for diverity, they all have invisible friends.
 
-![First Head of State](images/Screenshot1.png), 
-![Second Head of State](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot2.png), 
-![Third Head of State](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot3.png).
+![First Head of State](images/Screenshot1.png) 
+![Second Head of State](images/Screenshot2.png) 
+![Third Head of State](images/Screenshot3.png)
 
 [Google MLKit](https://developers.google.com/ml-kit/guides) is interesting because it provides pre trained Tensorflow models, with the results returned in a Java class (ok, nobody is perfect). This example demonstrates one particular MLKit model.
 
