@@ -7,7 +7,7 @@ MLKit
 
 As a test I tried it on a varied selection heads of state, they all have invisible friends.
 
-![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot1.png)
+![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot1.png?raw=true)
 ![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot2.png)
 ![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot3.png)
 
