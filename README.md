@@ -7,9 +7,9 @@ MLKit
 
 As a test I tried it on a varied selection heads of state, they all have invisible friends.
 
-![](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot1.png)
-![](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot2.png)
-![](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot3.png)
+![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot1.png)
+![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot2.png)
+![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot3.png)
 
 [Google MLKit](https://developers.google.com/ml-kit/guides) is interesting because it provides pre trained Tensorflow models, with the results returned in a Java class (ok, nobody is perfect). This example demonstrates one particular MLKit model.
 
