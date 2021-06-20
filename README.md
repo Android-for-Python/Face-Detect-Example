@@ -1,15 +1,15 @@
-MLKit
-=====
+Face Detect
+===========
 
-*Look in the mirror, leave at least half of the mirror for your invisible friend, simile and your friend smiles back.*
+**Look in the mirror, leave at least half of the mirror for your invisible friend, simile and your friend smiles back.**
 
-- MLKit depends on the master version of Buildozer installed locally after 2021/04/21 
+- Face Detect depends on the master version of Buildozer installed locally after 2021/04/21 
 
-As a test I tried it on a varied selection heads of state, they all have invisible friends.
+As a test I tried it on three heads of state, chosen for diverity, they all have invisible friends.
 
-![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot1.png?raw=true)
-![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot2.png)
-![alt text](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot3.png)
+![First Head of State](images/Screenshot1.png), 
+![Second Head of State](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot2.png), 
+![Third Head of State](https://github.com/Android-for-Python/Face-Detect-Example/tree/main/images/Screenshot3.png).
 
 [Google MLKit](https://developers.google.com/ml-kit/guides) is interesting because it provides pre trained Tensorflow models, with the results returned in a Java class (ok, nobody is perfect). This example demonstrates one particular MLKit model.
 
