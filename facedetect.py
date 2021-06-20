@@ -1,6 +1,8 @@
 from jnius import PythonJavaClass, java_method, autoclass
 from android.runnable import run_on_ui_thread
 
+# Source https://github.com/Android-for-Python/Face-Detect-Example
+
 # Reference
 # https://developers.google.com/ml-kit/vision/face-detection/android#java
 # https://developers.google.com/ml-kit/reference/android

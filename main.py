@@ -1,6 +1,3 @@
-
-# https://developers.google.com/ml-kit/vision/face-detection/android#java
-
 from kivy.app import App
 from kivy.uix.label import Label
 from android.permissions import request_permissions, check_permission, \

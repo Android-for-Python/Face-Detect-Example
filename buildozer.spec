@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = mlkit
+title = FaceD
 
 # (str) Package name
-package.name = mlkit
+package.name = facedetect
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
@@ -160,10 +160,10 @@ android.add_src = cameraxf/camerax_src, mlkit_src
 # (list) Gradle dependencies to add (currently works only with sdl2_gradle
 # bootstrap)
 #android.gradle_dependencies =
-android.gradle_dependencies = "androidx.camera:camera-core:1.0.0-rc05",
-   "androidx.camera:camera-camera2:1.0.0-rc05",
-   "androidx.camera:camera-lifecycle:1.0.0-rc05",
-   "androidx.camera:camera-view:1.0.0-alpha24",
+android.gradle_dependencies = "androidx.camera:camera-core:1.0.0",
+   "androidx.camera:camera-camera2:1.0.0",
+   "androidx.camera:camera-lifecycle:1.0.0",
+   "androidx.camera:camera-view:1.0.0-alpha25",
    "androidx.lifecycle:lifecycle-process:2.3.0",
    "com.google.mlkit:face-detection:16.0.6"
 

@@ -28,10 +28,10 @@ android.add_src = cameraxf/camerax_src, mlkit_src
 # and here
 # https://developers.google.com/ml-kit/release-notes#android-api-latest-versions
 
-android.gradle_dependencies = "androidx.camera:camera-core:1.0.0-rc05",
-   "androidx.camera:camera-camera2:1.0.0-rc05",
-   "androidx.camera:camera-lifecycle:1.0.0-rc05",
-   "androidx.camera:camera-view:1.0.0-alpha24",
+android.gradle_dependencies = "androidx.camera:camera-core:1.0.0",
+   "androidx.camera:camera-camera2:1.0.0",
+   "androidx.camera:camera-lifecycle:1.0.0",
+   "androidx.camera:camera-view:1.0.0-alpha25",
    "androidx.lifecycle:lifecycle-process:2.3.0",
    "com.google.mlkit:face-detection:16.0.6"
 
@@ -42,8 +42,7 @@ android.enable_androidx = True
 
 android.arch = armeabi-v7a, arm64-v8a, x86, or x86_64
 
-### These two lines download a custom p4a for use in this demo only
-### Until https://github.com/kivy/python-for-android/pull/2385 is approved
+### As of 2021/04/22 uses p4a develop version
 
 p4a.branch = develop
 
