@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = FaceD
+title = FD
 
 # (str) Package name
 package.name = facedetect
