@@ -5,7 +5,7 @@ Face Detect
 
 - Face Detect depends on the master version of Buildozer installed locally after 2021/04/21 
 
-As a test I tried it on three heads of state, chosen for diverity, they all have invisible friends.
+As a test I tried pointing the selfie camera at images of three heads of state, chosen for diverity, they all have invisible friends.
 
 ![First Head of State](images/Screenshot1.png) 
 ![Second Head of State](images/Screenshot2.png) 
