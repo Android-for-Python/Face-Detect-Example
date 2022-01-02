@@ -1,6 +1,9 @@
 Face Detect
 ===========
 
+**DEPRECATED use [c4k_mlkit_example](https://github.com/Android-for-Python/c4k_mlkit_example)**
+
+
 **Look in the mirror, leave at least half of the mirror for your invisible friend, simile and your friend smiles back.**
 
 - Face Detect depends on the master version of Buildozer installed locally after 2021/04/21 
